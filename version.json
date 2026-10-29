@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "7.12.5",
-  "apkUrl": "https://raw.githubusercontent.com/wd491695370-lab/material-downloader-updates/main/material-downloader-latest.apk?v=133&sha256=d0d7740cfe1d588bf697c034e639aa30534dbc9f2bb430cc96447fe56567c794",
-  "sha256": "d0d7740cfe1d588bf697c034e639aa30534dbc9f2bb430cc96447fe56567c794",
-  "notes": "V7.12.5 自动更新版本（APK 内部版本已校验）"
+  "versionCode": 134,
+  "versionName": "7.12.6",
+  "apkUrl": "https://raw.githubusercontent.com/wd491695370-lab/material-downloader-updates/main/material-downloader-latest.apk?v=134&sha256=92056baf1723d2a62efbad71572b9e6406bb49b175372548c4279db9373370ee",
+  "sha256": "92056baf1723d2a62efbad71572b9e6406bb49b175372548c4279db9373370ee",
+  "notes": "V7.12.6 自动更新版本（APK 内部版本已校验）"
 }
